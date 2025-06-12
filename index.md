@@ -1,3 +1,2 @@
-*MattWier64's GitHub Blog*
-**6/12/2025:**
-Today I am working through the GitHub Pages exercise to understand how to build a local website on github. As long as nothing crashes and burns; I'll count today as a win.
+*Welcome to MattWier64's GitHub Blog*
+Here you can find updates on all my recent activities as well as some behind the scenes looks at what have completed. Posts may be a little few and far between, but I'll try to pepper in some cool tidbits.
